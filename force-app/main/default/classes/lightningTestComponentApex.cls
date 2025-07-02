@@ -3,6 +3,7 @@ public with sharing class lightningTestComponentApex {
         Integer i=0;
         Integer j=0;
         Integer k=0;
+        Integer l=0;
 
     }
 }
