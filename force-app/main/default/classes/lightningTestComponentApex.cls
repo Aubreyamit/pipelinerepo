@@ -7,6 +7,10 @@ public with sharing class lightningTestComponentApex {
         Integer m=0;
         Integer n=0;
         Integer o=0;
+        Integer p=0;
+        Integer q=0;
+        Integer r=0;
+        Integer s=0;
 
     }
 }
