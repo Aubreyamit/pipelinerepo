@@ -10,4 +10,5 @@ export default class LightningTestComponent extends LightningElement {
     //This is eight comment
     //This is ninth comment
     //This is tenth comment
+
 }
