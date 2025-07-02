@@ -5,4 +5,7 @@ export default class LightningTestComponent extends LightningElement {
     //This is third comment
     //This is fourth comment
     //This is fifth comment
+    //This is sixth comment
+    //This is seventh comment
+    
 }
